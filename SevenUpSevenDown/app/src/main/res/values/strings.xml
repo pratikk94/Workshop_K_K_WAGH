@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SevenUpSevenDown</string>
+    <string name="less_7">Less than 7</string>
+    <string name="equals_7">Equals to 7</string>
+    <string name="greater_7">Greater than 7</string>
+
+</resources>
